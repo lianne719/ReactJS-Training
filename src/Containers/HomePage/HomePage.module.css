@@ -1,0 +1,16 @@
+  .Content {
+    padding: 60px 10% 0 10%;
+  }
+  
+  .Catalogue {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .ToggleExpand {  
+    width: 32x;
+    height: 32px;
+    background-image:url('https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_toggle_plus.png');
+    background-repeat:no-repeat;
+  }

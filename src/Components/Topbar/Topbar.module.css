@@ -1,0 +1,19 @@
+.Topbar {
+    box-shadow: 0 4px 4px #ccc;
+    padding: 16px 48px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.MenuItem {
+    text-decoration: none;
+    margin: 0 16px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+}

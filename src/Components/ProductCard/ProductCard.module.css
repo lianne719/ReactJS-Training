@@ -1,0 +1,12 @@
+.Product {
+    width: calc(20% - 16px);
+    box-shadow: 0 2px 4px gray;
+}
+
+.ProductImage {
+    width: 100%;
+}
+
+.ProductText {
+    margin: 10px;
+}
